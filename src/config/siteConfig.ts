@@ -10,10 +10,10 @@ export const siteConfig: SiteConfig = {
 	title: "Firefly",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "记录学习的点点滴滴~",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://39300.xyz",
 
 	// 站点描述
 	description:
@@ -91,7 +91,7 @@ export const siteConfig: SiteConfig = {
 	},
 
 	// 站点开始日期，用于统计运行天数
-	siteStartDate: "2025-01-01",
+	siteStartDate: "2026-05-10",
 
 	// 站点时区（IANA 时区字符串），用于格式化bangumi、rss里的构建日期时间等等..
 	// 示例："Asia/Shanghai", "UTC", 如果为空，则按照构建服务器的时区进行时区转换
