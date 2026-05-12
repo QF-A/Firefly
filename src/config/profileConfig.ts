@@ -9,10 +9,10 @@ export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.avif",
 
 	// 名字
-	name: "Firefly",
+	name: "清风不是F.",
 
 	// 个人签名
-	bio: "Hello, I'm Firefly.",
+	bio: "Hello, I'm 清风不是F..",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
@@ -30,7 +30,8 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
-			url: "https://github.com/CuteLeaf",
+			// url: "https://github.com/CuteLeaf",
+			url: "https://github.com/QF-A",
 			showName: false,
 		},
 		{
