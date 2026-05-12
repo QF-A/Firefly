@@ -7,13 +7,13 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Firefly",
+	title: "清风不是F.",
 
 	// 站点副标题
 	subtitle: "记录学习的点点滴滴~",
 
 	// 站点 URL
-	site_url: "https://39300.xyz",
+	site_url: "https://479168.xyz",
 
 	// 站点描述
 	description:
@@ -21,6 +21,7 @@ export const siteConfig: SiteConfig = {
 
 	// 站点关键词
 	keywords: [
+		"清风不是F.",
 		"Firefly",
 		"Fuwari",
 		"Astro",
