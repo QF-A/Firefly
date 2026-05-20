@@ -18,7 +18,7 @@ category: "python"
 image: "./ChatGPT Image 2026年5月19日 19_40_36.png"
 
 # 描述
-description: "POP vs OOP"
+description: "本文对比讲解面向过程（POP）与面向对象（OOP）编程思想，拆解流程与对象两种核心范式，结合示例辨析二者差异与适用场景。"
 
 # 是否为草稿
 draft: false
