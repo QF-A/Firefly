@@ -9,11 +9,7 @@ tags: ["Python", "进程编程", "并行计算"]
 
 categories: "python"
 
-<<<<<<< HEAD
 image: "./process-blog1.jpg"
-=======
-image: "./process-blog.jpg"
->>>>>>> deab246bec377f6d10c300860fdd0f81ab862e9c
 
 description: "Python 进程编程指南：从概念到实战"
 
@@ -26,11 +22,7 @@ slug: "python-process-programming"
 
 # Python 进程编程指南：从概念到实战
 
-<<<<<<< HEAD
 <!-- ![](process-blog1.jpg) -->
-=======
-<!-- ![](process-blog.jpg) -->
->>>>>>> deab246bec377f6d10c300860fdd0f81ab862e9c
 
 ## 一、进程的概念与特性
 
