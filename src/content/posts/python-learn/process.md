@@ -3,11 +3,11 @@ title: "Python 进程编程指南：从概念到实战"
 
 published: 2026-06-23
 
-updated: 2026-06-23
+updated: 2026-06-24
 
 tags: ["Python", "进程编程", "并行计算"]
 
-categories: "python"
+category: "python"
 
 image: "./process-blog1.jpg"
 
