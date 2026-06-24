@@ -6,13 +6,13 @@ title: "Claude Code 终端使用攻略"
 published: 2026-06-23
 
 # 更新日期
-updated: 2026-06-23
+updated: 2026-06-24
 
 # 文章标签
 tags: ["Claude Code", "CC-Switch"]
 
 # 分类
-categories: "others"
+category: "others"
 
 # 文章封面图片
 image: "./ChatGPT Image 2026年6月23日 13_35_40.png"
