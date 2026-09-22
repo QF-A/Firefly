@@ -9,7 +9,7 @@ tags: ["Python", "线程", "多线程"]
 
 category: "python"
 
-image:
+image: ""
 
 description: "Python 线程编程指南：从概念到实战"
 
